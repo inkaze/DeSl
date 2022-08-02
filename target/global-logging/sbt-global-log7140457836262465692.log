@@ -1,0 +1,16 @@
+[debug] > Exec({file:/D:/nam_lib/}nam_lib/publish, None, None)
+[debug] Evaluating tasks: publish
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] Wrote D:\nam_lib\target\scala-2.11\nam_2.11-1.0.0.pom
+[warn] versionScheme setting is empty; set `ThisBuild / versionScheme := Some("early-semver")`, `Some("semver-spec")` or `Some("pvp")`
+[warn] so tooling can use it for eviction errors etc - https://www.scala-sbt.org/1.x/docs/Publishing.html
+[info] 	published nam_2.11 to D:\Users\al\tmp\org\abc\nam_2.11\1.0.0.part\nam_2.11-1.0.0.pom
+[info] 	published nam_2.11 to D:\Users\al\tmp\org\abc\nam_2.11\1.0.0.part\nam_2.11-1.0.0.jar
+[info] 	published nam_2.11 to D:\Users\al\tmp\org\abc\nam_2.11\1.0.0.part\nam_2.11-1.0.0-sources.jar
+[info] 	published nam_2.11 to D:\Users\al\tmp\org\abc\nam_2.11\1.0.0.part\nam_2.11-1.0.0-javadoc.jar
+[info] 	publish commited: moved D:\Users\al\tmp\org\abc\nam_2.11\1.0.0.part 
+[info] 		to D:\Users\al\tmp\org\abc\nam_2.11\1.0.0
+[success] Total time: 0 s, completed Jul 21, 2022, 10:14:37 PM
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

@@ -1,0 +1,3 @@
+[debug] writing Ivy file D:\nam_lib\target\scala-2.11\resolution-cache\org.abc\nam_2.11\1.0.0\resolved.xml.xml
+[warn] versionScheme setting is empty; set `ThisBuild / versionScheme := Some("early-semver")`, `Some("semver-spec")` or `Some("pvp")`
+[warn] so tooling can use it for eviction errors etc - https://www.scala-sbt.org/1.x/docs/Publishing.html

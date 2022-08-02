@@ -1,0 +1,16 @@
+[debug] > Exec({file:/D:/nam_lib/}nam_lib/publishLocal, None, None)
+[debug] Evaluating tasks: publishLocal
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] Wrote D:\nam_lib\target\scala-2.11\nam_2.11-1.0.0.pom
+[info] :: delivering :: org.abc#nam_2.11;1.0.0 :: 1.0.0 :: release :: Thu Jul 21 22:15:07 ICT 2022
+[info] 	delivering ivy file to D:\nam_lib\target\scala-2.11\ivy-1.0.0.xml
+[info] 	published nam_2.11 to C:\Users\NAM\.ivy2\local\org.abc\nam_2.11\1.0.0\poms\nam_2.11.pom
+[info] 	published nam_2.11 to C:\Users\NAM\.ivy2\local\org.abc\nam_2.11\1.0.0\jars\nam_2.11.jar
+[info] 	published nam_2.11 to C:\Users\NAM\.ivy2\local\org.abc\nam_2.11\1.0.0\srcs\nam_2.11-sources.jar
+[info] 	published nam_2.11 to C:\Users\NAM\.ivy2\local\org.abc\nam_2.11\1.0.0\docs\nam_2.11-javadoc.jar
+[info] 	published ivy to C:\Users\NAM\.ivy2\local\org.abc\nam_2.11\1.0.0\ivys\ivy.xml
+[success] Total time: 0 s, completed Jul 21, 2022, 10:15:07 PM
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)
+[warn] In the last 1929 seconds, 6.562 (0.3%) were spent in GC. [Heap: 0.10GB free of 0.17GB, max 1.50GB] Consider increasing the JVM heap using `-Xmx` or try a different collector, e.g. `-XX:+UseG1GC`, for better performance.

@@ -1,0 +1,10 @@
+[debug] 	starting transaction: publish during transaction will be done in 
+[debug] 		D:\Users\al\tmp\org\abc\nam_2.11\1.0.0.part
+[debug] 	and on commit moved to 
+[debug] 		D:\Users\al\tmp\org\abc\nam_2.11\1.0.0
+[info] 	published nam_2.11 to D:\Users\al\tmp\org\abc\nam_2.11\1.0.0.part\nam_2.11-1.0.0.pom
+[info] 	published nam_2.11 to D:\Users\al\tmp\org\abc\nam_2.11\1.0.0.part\nam_2.11-1.0.0.jar
+[info] 	published nam_2.11 to D:\Users\al\tmp\org\abc\nam_2.11\1.0.0.part\nam_2.11-1.0.0-sources.jar
+[info] 	published nam_2.11 to D:\Users\al\tmp\org\abc\nam_2.11\1.0.0.part\nam_2.11-1.0.0-javadoc.jar
+[info] 	publish commited: moved D:\Users\al\tmp\org\abc\nam_2.11\1.0.0.part 
+[info] 		to D:\Users\al\tmp\org\abc\nam_2.11\1.0.0
